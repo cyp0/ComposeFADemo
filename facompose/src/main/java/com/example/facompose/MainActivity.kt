@@ -128,7 +128,7 @@ fun SimpleCard(){
             }
 
             Text(
-                text = "Carla López",
+                text = "Carla Sanchez",
                 modifier = Modifier
                     .align(alignment = Alignment.CenterHorizontally)
                     .padding(0.dp, 10.dp, 0.dp, 11.dp),
